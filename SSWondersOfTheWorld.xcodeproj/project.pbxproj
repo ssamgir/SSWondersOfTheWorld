@@ -23,6 +23,8 @@
 		E75E95AF1D68C8430067BBB6 /* petra_461.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E75E95A71D68C8430067BBB6 /* petra_461.jpg */; };
 		E75E95B01D68C8430067BBB6 /* pyramid_461.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E75E95A81D68C8430067BBB6 /* pyramid_461.jpg */; };
 		E75E95B11D68C8430067BBB6 /* taj_461.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E75E95A91D68C8430067BBB6 /* taj_461.jpg */; };
+		E75E95B31D68D35F0067BBB6 /* images (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E75E95B21D68D35F0067BBB6 /* images (2).jpeg */; };
+		E75E95B51D68D4300067BBB6 /* 3bc4734b0b5bdb875b96314cba835bd7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E75E95B41D68D4300067BBB6 /* 3bc4734b0b5bdb875b96314cba835bd7.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +69,8 @@
 		E75E95A71D68C8430067BBB6 /* petra_461.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = petra_461.jpg; path = ../../../../Downloads/petra_461.jpg; sourceTree = "<group>"; };
 		E75E95A81D68C8430067BBB6 /* pyramid_461.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pyramid_461.jpg; path = ../../../../Downloads/pyramid_461.jpg; sourceTree = "<group>"; };
 		E75E95A91D68C8430067BBB6 /* taj_461.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = taj_461.jpg; path = ../../../../Downloads/taj_461.jpg; sourceTree = "<group>"; };
+		E75E95B21D68D35F0067BBB6 /* images (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "images (2).jpeg"; path = "../../../../Downloads/images (2).jpeg"; sourceTree = "<group>"; };
+		E75E95B41D68D4300067BBB6 /* 3bc4734b0b5bdb875b96314cba835bd7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3bc4734b0b5bdb875b96314cba835bd7.jpg; path = ../../../../Downloads/3bc4734b0b5bdb875b96314cba835bd7.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +131,8 @@
 				E75E95A51D68C8430067BBB6 /* itza_461.jpg */,
 				E75E95A61D68C8430067BBB6 /* machupicchu_461.jpg */,
 				E75E95A71D68C8430067BBB6 /* petra_461.jpg */,
+				E75E95B21D68D35F0067BBB6 /* images (2).jpeg */,
+				E75E95B41D68D4300067BBB6 /* 3bc4734b0b5bdb875b96314cba835bd7.jpg */,
 				E75E95A81D68C8430067BBB6 /* pyramid_461.jpg */,
 				E75E95A91D68C8430067BBB6 /* taj_461.jpg */,
 				E75E95781D68C11B0067BBB6 /* Main.storyboard */,
@@ -267,6 +273,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E75E95B31D68D35F0067BBB6 /* images (2).jpeg in Resources */,
 				E75E95AA1D68C8430067BBB6 /* christ_461.jpg in Resources */,
 				E75E957F1D68C11B0067BBB6 /* LaunchScreen.storyboard in Resources */,
 				E75E95B01D68C8430067BBB6 /* pyramid_461.jpg in Resources */,
@@ -276,6 +283,7 @@
 				E75E95AB1D68C8430067BBB6 /* colosseum_461.jpg in Resources */,
 				E75E957A1D68C11B0067BBB6 /* Main.storyboard in Resources */,
 				E75E95AE1D68C8430067BBB6 /* machupicchu_461.jpg in Resources */,
+				E75E95B51D68D4300067BBB6 /* 3bc4734b0b5bdb875b96314cba835bd7.jpg in Resources */,
 				E75E95AC1D68C8430067BBB6 /* greatwall_461.jpg in Resources */,
 				E75E95AF1D68C8430067BBB6 /* petra_461.jpg in Resources */,
 			);

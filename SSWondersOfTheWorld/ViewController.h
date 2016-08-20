@@ -9,7 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIView *LabelName;
+@property (strong, nonatomic) IBOutlet UIView *ImageWonder;
+- (IBAction)ButtonNext:(id)sender;
 
+- (IBAction)ButtonPrev:(id)sender;
 
 @end
 
