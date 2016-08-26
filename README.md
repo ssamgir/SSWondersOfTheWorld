@@ -1,1 +1,1 @@
-# SSWondersOfTheWorld
+# Seven Wonders Of The World
